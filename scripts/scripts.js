@@ -19,7 +19,7 @@ const quizData = [
 // variables
 let currentQuestion = 0;
 let score = 0;
-let timeLeft = 30;
+let timeLeft = 30; 
 let timerInterval;
 
 // constants storing elements
